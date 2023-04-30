@@ -1,3 +1,5 @@
+!!! STILL UNDER CONSTRUCTION !!!
+
 Bitcoin Core integration/staging tree
 =====================================
 
